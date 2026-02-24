@@ -43,6 +43,6 @@ Końcowa ocena zależy od liczby uzyskanych punktów w następujący sposób
 - [Dawid Płudowski](grp_cv_steeering_vectors.md)
 - [dr Inez Okulska](grp_framing_the_SLM_multiagents.md)
 - [Jan Piotrowski](grp-weird-llms.md)
-- Michał Włodarczyk
-- Vladimir Zaigrajew
+- [Michał Włodarczyk](https://github.com/mwlodarzc/warsztaty-badawcze-2-2026)
+- [Vladimir Zaigrajew](https://github.com/WolodjaZ/Warsztaty-badawcze-2-2026)
   
